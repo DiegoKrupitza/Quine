@@ -6,4 +6,4 @@ I did this java quine back in 2004. It was hacked within less than a hour. I stu
 
 The rationale behind building such a quine is prettry straight forward. 
 You need a string which serves on the one hand as a rough outline of the sourcecode blocks and on the other hand as a reservoir for escape characters and keywords.
-When print to stdout you just copy characters or blocks form this string.
+When printing to stdout you just copy characters or blocks form this string.
